@@ -38,10 +38,19 @@ list1.append(5)
 print("the list is",list1)
 list1.clear()
 print("the list is",list1)
+list1.count(5)
+print("the count is",list1)
 
 
 
 
+
+string=("pooja g")
+print("the name is",string)
+string.capitalize()
+print("the string is",string)
+string.count(pooja)
+print("the count is",string)
 
 
 
